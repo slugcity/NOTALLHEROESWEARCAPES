@@ -1,8 +1,8 @@
 NOT ALL HEROES WEAR CAPES BY IAN REYES
 
-NAHWC is a creative twist on traditional fighing games. Where most fighting games feature some type of superhero or being with supernatural powers, NAHWC embraces the real superheroes in our society. NAHWC is features relatively simple controls, with an "easy to learn, hard to master" style of gameplay with quick rounds.
+NAHWC is a creative twist on traditional fighing games. Where most fighting games feature a superhero or being with supernatural powers, NAHWC embraces the real superheroes in our society. NAHWC is features relatively simple controls, with an "easy to learn, hard to master" style of gameplay with quick rounds.
 
-For this project, I used LOVE2D, an open source lua framework for creating 2d applications.
+For this project, I used LOVE2D, an open source lua framework for creating 2d applications. (DOWNLOAD ZIP AND CHANGE SUFFIX TO .love)
 
 https://www.love2d.org
 
